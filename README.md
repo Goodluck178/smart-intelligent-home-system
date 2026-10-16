@@ -4,8 +4,6 @@
 
 https://ugochukwuofodum.wordpress.com/2025/05/09/develop-core-functionalitiesmovement-detection-and-occupancy-detection/
 
-# Smart Intelligent Home System
-
 A Raspberry Pi based home monitoring prototype that brings together environmental sensing, distance detection, local hardware feedback, email notifications, and a small HTTP interface.
 
 Project areas: Python · Raspberry Pi · GPIO · I²C · Flask · sensor integration
